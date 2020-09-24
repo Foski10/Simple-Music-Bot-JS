@@ -12,7 +12,7 @@ run the ``start.bat`` file to start
 
 ## Usage
 
-Copy/Rename the `.env_example` to `.env` and fill out the values:
+fill out the on the file .env values:
 
 ```
 DISCORD_TOKEN=
