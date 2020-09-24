@@ -3,7 +3,7 @@
 
 ## Tutorial
 
-Video tutorial click [here](https://youtu.be/wWVXN4mIgz8). [Support in Discord](https://discord.gg/6W7YgNr)
+[Support in Discord](https://discord.gg/tKBntJG)
 
 ## Install
 
@@ -29,7 +29,7 @@ GOOGLE_API=
 
 ## Contributing
 
-1. [Fork the repository](https://github.com/SudhanPlayz/Discord-MusicBot/fork)!
+1. [Fork the repository](https://github.com/Foski10/Simple-Music-Bot-JS)!
 2. Clone your fork: `git clone https://github.com/your-username/Discord-MusicBot.git`
 3. Create your feature branch: `git checkout -b my-new-feature`
 4. Commit your changes: `git commit -am 'Add some feature'`
@@ -38,7 +38,4 @@ GOOGLE_API=
 
 ## Author
 
-[SudhanPlayz](https://github.com/SudhanPlayz).  
-Authored and maintained by SudhanPlayz.
-
-> GitHub [@SudhanPlayz](https://github.com/SudhanPlayz)
+Discord: Foski#4619
